@@ -16,7 +16,7 @@ Hope this is  helpful for you and me. We find a special road-map for learning fr
 
 
 ## CTR Model
-
+- DIN, [Deep interest network for click-through rate prediction](https://dl.acm.org/doi/abs/10.1145/3219819.3219823), **SIGKDD2018**,  
 
 
 ## CVR Model
@@ -24,13 +24,13 @@ Hope this is  helpful for you and me. We find a special road-map for learning fr
 
 
 ## Ranking Model
+- MTRUB, [Multi-task Ranking with User Behaviors for Text-video Search](https://dl.acm.org/doi/abs/10.1145/3487553.3524207), **WWW2022**, 
+- K-NRM, [End-to-End Neural Ad-hoc Ranking with Kernel Pooling](https://arxiv.org/abs/1706.06613), **SIGIR2017**, [word-based, kernel pooling, soft match], [code-pytorch](<https://github.com/EdisonChen0816/knrm_pytorch>), [code-tf](https://github.com/AdeDZY/K-NRM)
 
-
-
-## Query-Doc similarity/relevance
+## Query-Doc similarity/relevance (Text-Matching)
 
 - MatchPyramid, [Text Matching as Image Recognition](https://arxiv.org/abs/1602.06359), **AAAI2016**, classic, [word-based conv],  [code-pytorch](https://github.com/airkid/MatchPyramid_torch)
-- K-NRM, [End-to-End Neural Ad-hoc Ranking with Kernel Pooling](https://arxiv.org/abs/1706.06613), **SIGIR2017**, [word-based, kernel pooling, soft match], [code-pytorch](<https://github.com/EdisonChen0816/knrm_pytorch>), [code-tf](https://github.com/AdeDZY/K-NRM)
+
 - Local-distributed model, [Learning to match using local and distributed representations of text for web search](<https://arxiv.org/abs/1610.08136>), **WWW2017**, 
 - Enhanced-LSTM, [Enhanced LSTM for natural language inference](<https://arxiv.org/abs/1609.06038>), **ACL2017**, [offical-code-Theano](<https://github.com/lukecq1231/nli>), [code-keras](<https://github.com/sdnr1/EBIM-NLI>)
 - Conv-KNRM, [Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search](<https://dl.acm.org/doi/abs/10.1145/3159652.3159659>), **WSDM2018**,
@@ -39,9 +39,6 @@ Hope this is  helpful for you and me. We find a special road-map for learning fr
 - MASM, [Learning a Product Relevance Model from Click-Through Data in E-Commerce](<https://arxiv.org/abs/2102.07098>), **WWW2021**
 - 
 
-
-
-## Text-Matching
 
 
 
